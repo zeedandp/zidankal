@@ -7,10 +7,12 @@ Dalam sistem persamaan linear, terdapat dua jenis sistem yaitu sistem persamaan 
 ## B.Persamaan Linear Satu variabel
 persamaan linear yang hanya memiliki satu variabel saja memiliki pangkat satu.
 *     Contoh: 2x-9=1
-        Penyelesaian: 2x−9=1
-                2x  = 1+9
-                x  = 10/2
-                x  = 5
+    Penyelesaian: 2x−9=1
+                    2x  = 1+9
+                     x  = 10/2
+                     x  = 5
+
+                     
 ## C. Persamaan Linear Dua variabel
 persamaan linear yang memiliki dua varibel, dengan pangkat satu.
 *     Contoh: 2x+y=12
