@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>TUGAS &#8212; My sample book</title>
+    <title>Sistem Persamaan Linier &#8212; My sample book</title>
   
   
   
@@ -180,8 +180,8 @@
             </li>
         </ul>
         <ul class="current nav bd-sidenav">
-<li class="toctree-l1 current active"><a class="current reference internal" href="#">TUGAS</a></li>
-<li class="toctree-l1"><a class="reference internal" href="markdown-notebooks.html">MATERI 1</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Sistem Persamaan Linier</a></li>
+<li class="toctree-l1"><a class="reference internal" href="markdown-notebooks.html">bab</a></li>
 </ul>
 
     </div>
@@ -354,7 +354,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
 </div></div>
       
     </div>
@@ -365,11 +367,21 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>TUGAS</h1>
+    <h1>Sistem Persamaan Linier</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#a-definisi">A. Definisi</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#b-persamaan-linear-satu-variabel">B.Persamaan Linear Satu variabel</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#c-persamaan-linear-dua-variabel">C. Persamaan Linear Dua variabel</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -379,9 +391,55 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="tugas">
-<h1>TUGAS<a class="headerlink" href="#tugas" title="Link to this heading">#</a></h1>
-<iframe scrolling="no" title="Tentukan himpunan penyelesaian dari sistem persamaan linier dua variabel" src="https://www.geogebra.org/material/iframe/id/hk6eusad/width/700/height/500/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/true/ctl/false" width="700px" height="500px" style="border:0px;"> </iframe></section>
+  <section class="tex2jax_ignore mathjax_ignore" id="sistem-persamaan-linier">
+<h1>Sistem Persamaan Linier<a class="headerlink" href="#sistem-persamaan-linier" title="Link to this heading">#</a></h1>
+<section id="a-definisi">
+<h2>A. Definisi<a class="headerlink" href="#a-definisi" title="Link to this heading">#</a></h2>
+<p>Sistem persamaan linear merupakan salah satu topik yang penting dalam matematika. Sistem ini terdiri dari beberapa persamaan linear yang harus diselesaikan secara bersamaan. Persamaan linear sendiri merupakan persamaan yang memiliki bentuk umum seperti ax + by = c, di mana a, b, dan c adalah konstanta yang diketahui, sedangkan x dan y adalah variabel yang harus dicari.</p>
+<p>Dalam sistem persamaan linear, terdapat dua jenis sistem yaitu sistem persamaan linear dengan dua variabel dan sistem persamaan linear dengan tiga variabel. Sistem persamaan linear dengan dua variabel memiliki dua persamaan dengan dua variabel yang harus dicari nilainya. Sedangkan sistem persamaan linear dengan tiga variabel memiliki tiga persamaan dengan tiga variabel yang harus dicari nilainya</p>
+</section>
+<section id="b-persamaan-linear-satu-variabel">
+<h2>B.Persamaan Linear Satu variabel<a class="headerlink" href="#b-persamaan-linear-satu-variabel" title="Link to this heading">#</a></h2>
+<p>persamaan linear yang hanya memiliki satu variabel saja memiliki pangkat satu.</p>
+<ul>
+<li><div class="highlight-none notranslate"><div class="highlight"><pre><span></span>Contoh: 2x-9=1
+</pre></div>
+</div>
+<p>Penyelesaian: 2x−9=1
+2x  = 1+9
+x  = 10/2
+x  = 5</p>
+</li>
+</ul>
+</section>
+<section id="c-persamaan-linear-dua-variabel">
+<h2>C. Persamaan Linear Dua variabel<a class="headerlink" href="#c-persamaan-linear-dua-variabel" title="Link to this heading">#</a></h2>
+<p>persamaan linear yang memiliki dua varibel, dengan pangkat satu.</p>
+<ul>
+<li><div class="highlight-none notranslate"><div class="highlight"><pre><span></span>Contoh: 2x+y=12
+      4x−y=0
+</pre></div>
+</div>
+<p>Penyelesaian: Mengeliminasi variabel x
+2x+y= 12
+4x−y= 0
+________+
+6x  =12
+x  =12/6
+x  =2
+Subtitusi variabel x ke persamaan 2
+4(2)-y= 0
+8   -y= 0
+-y= 0 - 8
+-y= -8
+y= 8</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>Jadi nilai variabel x,y adalah : (2,8)
+</pre></div>
+</div>
+</li>
+</ul>
+</section>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -437,6 +495,23 @@ document.write(`
             </div>
             
             
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#a-definisi">A. Definisi</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#b-persamaan-linear-satu-variabel">B.Persamaan Linear Satu variabel</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#c-persamaan-linear-dua-variabel">C. Persamaan Linear Dua variabel</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>
