@@ -15,9 +15,9 @@ persamaan linear yang hanya memiliki satu variabel saja memiliki pangkat satu.
 
 ## C. Persamaan Linear Dua variabel
 persamaan linear yang memiliki dua varibel, dengan pangkat satu.
-*  Contoh: 2x+y=12
-            4x−y=0
-    Penyelesaian: Mengeliminasi variabel x
+*        Contoh: 2x+y=12
+                 4x−y=0
+            Penyelesaian: Mengeliminasi variabel x
                   2x+y= 12
                   4x−y= 0
                   ________+
@@ -32,3 +32,6 @@ persamaan linear yang memiliki dua varibel, dengan pangkat satu.
                        y= 8
 
       Jadi nilai variabel x,y adalah : (2,8)
+
+## D.Persamaan Linear Tiga variabel
+persamaan linear yang memiliki tiga varibel yang saling berhubungan.
