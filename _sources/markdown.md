@@ -12,7 +12,6 @@ persamaan linear yang hanya memiliki satu variabel saja memiliki pangkat satu.
                      x  = 10/2
                      x  = 5
 
-
 ## C. Persamaan Linear Dua variabel
 persamaan linear yang memiliki dua varibel, dengan pangkat satu.
 *        Contoh: 2x+y=12
