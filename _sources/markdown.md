@@ -12,12 +12,12 @@ persamaan linear yang hanya memiliki satu variabel saja memiliki pangkat satu.
                      x  = 10/2
                      x  = 5
 
-                     
+
 ## C. Persamaan Linear Dua variabel
 persamaan linear yang memiliki dua varibel, dengan pangkat satu.
-*     Contoh: 2x+y=12
-              4x−y=0
-     Penyelesaian: Mengeliminasi variabel x
+*    Contoh: 2x+y=12
+            4x−y=0
+    Penyelesaian: Mengeliminasi variabel x
                   2x+y= 12
                   4x−y= 0
                   ________+
@@ -26,8 +26,9 @@ persamaan linear yang memiliki dua varibel, dengan pangkat satu.
                    x  =2
                   Subtitusi variabel x ke persamaan 2
                   4(2)-y= 0
-                  8-y= 0
-                  -y= 0 - 8
-                  -y= -8
-                   y= 8
+                  8   -y= 0
+                      -y= 0 - 8
+                      -y= -8
+                       y= 8
+
       Jadi nilai variabel x,y adalah : (2,8)
