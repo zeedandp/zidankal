@@ -1,4 +1,4 @@
-# Sistem Persamaan Linier
+# Persamaan Linier
 ## A. Definisi
 Sistem persamaan linear merupakan salah satu topik yang penting dalam matematika. Sistem ini terdiri dari beberapa persamaan linear yang harus diselesaikan secara bersamaan. Persamaan linear sendiri merupakan persamaan yang memiliki bentuk umum seperti ax + by = c, di mana a, b, dan c adalah konstanta yang diketahui, sedangkan x dan y adalah variabel yang harus dicari.
 
